@@ -37,3 +37,9 @@ color: rgb(189, 189, 189);
     width: 200px;
     margin-top: 5px;
 }
+
+body footer{
+    color: rgba(62, 45, 219, 0.226);
+    text-align: center;
+    margin-top: 20px;
+}
